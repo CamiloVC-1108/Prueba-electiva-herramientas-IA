@@ -9,4 +9,8 @@ creamos unas rama que se llama Esperimentos
 
 hicimos commit en esa rama
 
+<<<<<<< HEAD
 visual
+=======
+debemos instalar visual studio code
+>>>>>>> experimentos
