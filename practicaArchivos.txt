@@ -1,4 +1,7 @@
 Estamos haciendo un repaso
 
-vamos a trabajar en Git hub hoy
+vamos a trabajar en GitHub hoy
 
+
+
+creamos unas rama que se llama Esperimentos
