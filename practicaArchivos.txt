@@ -8,3 +8,5 @@ creamos unas rama que se llama Esperimentos
 
 
 hicimos commit en esa rama
+
+debemos instalar visual studio code
